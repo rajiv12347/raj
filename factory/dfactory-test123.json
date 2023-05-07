@@ -1,0 +1,9 @@
+{
+	"name": "dfactory-test123",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8015a041-2b07-48dc-8cdb-35a342c30bc0",
+		"tenantId": "ddd414e9-b891-434c-9aab-09e48eda7aae"
+	}
+}
